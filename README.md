@@ -59,7 +59,7 @@
 ```javascript
 const OPERATOR = {
     name: "Sandaruwan",
-    title: "Full Stack Developer | Digital Architect",
+    title: "Full Stack Developer",
     location: "The Matrix 🌐",
     
     skills: {
