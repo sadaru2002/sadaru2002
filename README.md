@@ -170,16 +170,13 @@ const OPERATOR = {
 <a href="https://github.com/sadaru2002">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff00" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:lakmalsadaruwan411@gmail.com">
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff00" />
 </a>
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/thilina-sandaruwan-a95a02221/">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff00" />
 </a>
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=00ff00" />
-</a>
-<a href="https://yourportfolio.com">
+<a href="https://thilinasandaruwan.online">
   <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00ff00" />
 </a>
 
