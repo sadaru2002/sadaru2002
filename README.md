@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Matrix Rain Header Animation -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:003300,100:00ff00&text=SADARU&fontColor=00ff00&fontSize=90&fontAlignY=35&animation=fadeIn&stroke=00ff00&strokeWidth=3&desc=WELCOME%20TO%20THE%20MATRIX&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:003300,100:00ff00&text=SANDARUWAN&fontColor=00ff00&fontSize=70&fontAlignY=35&animation=fadeIn&stroke=00ff00&strokeWidth=3&desc=WELCOME%20TO%20THE%20MATRIX&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Matrix Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%96%88%E2%96%93+SYSTEM+INITIALIZED+%E2%96%93%E2%96%88;Wake+up%2C+Neo...+The+Matrix+has+you;Follow+the+white+rabbit...+%F0%9F%90%87" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hello%2C+I+am+Sandaruwan+%F0%9F%91%8B;Full+Stack+Developer+%7C+Digital+Architect;Welcome+to+my+Matrix+%F0%9F%92%9A" alt="Typing SVG" /></a>
 
-<!-- Animated Matrix Code Rain GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<!-- Animated Coding GIF -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="400">
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ## ⬢ `SYSTEM.ACCESS_GRANTED` ⬢
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
 
 </div>
 
@@ -52,13 +52,13 @@
 
 </div>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="350"/>
 
 <br>
 
 ```javascript
 const OPERATOR = {
-    name: "Sadaru",
+    name: "Sandaruwan",
     title: "Full Stack Developer | Digital Architect",
     location: "The Matrix 🌐",
     
@@ -86,13 +86,13 @@ const OPERATOR = {
 ## ⚡ `TECH.ARSENAL` ⚡
 
 <!-- Animated Tech Stack Icons -->
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628571e.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="80">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
 
 <br><br>
 
@@ -183,7 +183,7 @@ const OPERATOR = {
 <br><br>
 
 <!-- Matrix Hacker Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
 </div>
 
@@ -237,26 +237,17 @@ const OPERATOR = {
 
 <div align="center">
 
-## 🎵 `NOW.PLAYING` 🎵
-
-<!-- Spotify Now Playing (Replace with your Spotify link) -->
-[![Spotify](https://novatorem-sadaru2002.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
-
-</div>
-
----
-
-<div align="center">
+## 💭 `MATRIX.WISDOM` 💭
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║   ██████╗ ███████╗███╗   ███╗███████╗███╗   ███╗██████╗ ███████╗██████╗      ║
-║   ██╔══██╗██╔════╝████╗ ████║██╔════╝████╗ ████║██╔══██╗██╔════╝██╔══██╗     ║
-║   ██████╔╝█████╗  ██╔████╔██║█████╗  ██╔████╔██║██████╔╝█████╗  ██████╔╝     ║
-║   ██╔══██╗██╔══╝  ██║╚██╔╝██║██╔══╝  ██║╚██╔╝██║██╔══██╗██╔══╝  ██╔══██╗     ║
-║   ██║  ██║███████╗██║ ╚═╝ ██║███████╗██║ ╚═╝ ██║██████╔╝███████╗██║  ██║     ║
-║   ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚══════╝╚═╝     ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝     ║
+║   ███████╗ █████╗ ███╗   ██╗██████╗  █████╗ ██████╗ ██╗   ██╗██╗    ██╗      ║
+║   ██╔════╝██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔══██╗██║   ██║██║    ██║      ║
+║   ███████╗███████║██╔██╗ ██║██║  ██║███████║██████╔╝██║   ██║██║ █╗ ██║      ║
+║   ╚════██║██╔══██║██║╚██╗██║██║  ██║██╔══██║██╔══██╗██║   ██║██║███╗██║      ║
+║   ███████║██║  ██║██║ ╚████║██████╔╝██║  ██║██║  ██║╚██████╔╝╚███╔███╔╝      ║
+║   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚══╝╚══╝       ║
 ║                                                                              ║
 ║          "The Matrix is everywhere. It is all around us."                    ║
 ║                                                                              ║
@@ -265,8 +256,8 @@ const OPERATOR = {
 
 <br>
 
-<!-- Matrix Code Rain Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<!-- Matrix Wave Animation -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
 <br>
 
