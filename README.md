@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Matrix Rain Header Animation -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:003300,100:00ff00&text=SANDARUWAN&fontColor=00ff00&fontSize=70&fontAlignY=35&animation=fadeIn&stroke=00ff00&strokeWidth=3&desc=WELCOME%20TO%20THE%20MATRIX&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:003300,100:00ff00&text=HELLO+WORLD&fontColor=00ff00&fontSize=70&fontAlignY=35&animation=fadeIn&stroke=00ff00&strokeWidth=3&desc=WELCOME%20TO%20THE%20MATRIX&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Matrix Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hello%2C+I+am+Sandaruwan+%F0%9F%91%8B;Full+Stack+Developer+%7C+Digital+Architect;Welcome+to+my+Matrix+%F0%9F%92%9A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hello%2C+I+am+Sandaruwan+%F0%9F%91%8B;Full+Stack+Developer+%7C+;Welcome+to+my+Matrix+%F0%9F%92%9A" alt="Typing SVG" /></a>
 
 <!-- Animated Coding GIF -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="400">
