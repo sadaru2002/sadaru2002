@@ -67,6 +67,25 @@ const sandaruwan = {
 <img src="https://github-readme-stats.vercel.app/api?username=sadaru2002&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadaru2002&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff00&text_color=00ff00&border_color=00ff00" height="165"/>
 
+<br><br>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadaru2002&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area_color=00ff00&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
 </div>
 
 ---
